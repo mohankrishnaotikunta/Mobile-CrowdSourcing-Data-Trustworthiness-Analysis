@@ -40,6 +40,10 @@ The results show that synthetic data generation significantly improves model per
 
 Technologies Used Python Jupyter Notebook Pandas, NumPy Scikit-learn TensorFlow / Keras Matplotlib
 
-How to Run '''bash git clone https://github.com/chakrinee/MobileCrowdSourcing.git cd MobileCrowdSourcing pip install -r requirements.txt jupyter notebook
+How to Run
+'''git clone https://github.com/mohankrishnaotikunta/Mobile-CrowdSourcing-Data-Trustworthiness-Analysis.git
+cd Mobile-CrowdSourcing-Data-Trustworthiness-Analysis
+pip install numpy pandas scikit-learn matplotlib tensorflow jupyter
+jupyter notebook'''
 
 Author(s)  Mohan Krishna Otikunta & Chakrinee Ayalasomayajula
